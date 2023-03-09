@@ -1,7 +1,9 @@
 # pertemuan3
 
 A new Flutter project.
-
+Result : 
+image.png
+image.png
 ## Getting Started
 
 This project is a starting point for a Flutter application.
