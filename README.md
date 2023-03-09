@@ -1,9 +1,11 @@
 # pertemuan3
 
-A new Flutter project.
-Result : 
-image.png
-image.png
+Web Flutter.
+
+# Result : 
+![image](https://user-images.githubusercontent.com/93690714/223961634-3bff9800-b3d9-4e31-b836-38d121d5b26b.png)
+![image](https://user-images.githubusercontent.com/93690714/223961748-6433c358-88bf-4c18-8016-de240dddac91.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
